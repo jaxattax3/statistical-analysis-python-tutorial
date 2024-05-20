@@ -12,9 +12,6 @@ This tutorial will introduce the use of Python for statistical data analysis, us
 
 The target audience for the tutorial includes all new Python users, though we recommend that users also attend the NumPy and IPython session in the introductory track.
 
-### Student Instructions
-
-For students familiar with Git, you may simply clone this repository to obtain all the materials (iPython notebooks and data) for the tutorial. Alternatively, you may [download a zip file containing the materials](https://github.com/fonnesbeck/statistical-analysis-python-tutorial/archive/master.zip). A third option is to simply view static notebooks by clicking on the titles of each section below.
 
 ## Outline
 
@@ -68,13 +65,6 @@ For students familiar with Git, you may simply clone this repository to obtain a
 * IPython >= 0.12
 * pyzmq
 * tornado
-
-**Optional**: statsmodels, xlrd and openpyxl
-
-For students running the latest version of Mac OS X (10.8), the easiest way to obtain all the packages is to install the [Scipy Superpack](http://bit.ly/scipy_superpack) which works with Python 2.7.2 that ships with OS X.
-
-Otherwise, another easy way to install all the necessary packages is to use Continuum Analytics' [Anaconda](http://docs.continuum.io/anaconda/install.html).
-
 
 ## Statistical Reading List
 
